@@ -123,9 +123,9 @@ As a Data Analyst, the objective was to analyze historical booking and revenue d
 
 ## Project Files
 
-📄 **Dashboard PDF:** [Hospitality_Analytics_Dashboard.pdf](Hospitality_Analytics_Dashboard.pdf)
+**Dashboard PDF:** [Hospitality_Analytics_Dashboard.pdf](project_001_hospitality_domain_analysis.pdf)
 
-📊 **Power BI File:** [Hospitality_Analytics.pbix](Hospitality_Analytics.pbix)
+**Power BI File:** [Hospitality_Analytics.pbix](project_001_hospitality_analysis.pbit)
 
 ---
 
